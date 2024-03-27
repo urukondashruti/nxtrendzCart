@@ -102,18 +102,18 @@ class LoginForm extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwPd7h8FYUdnfGMp56OjiZUXS66YkHta7fg&usqp=CAU"
           className="login-website-logo-mobile-img"
           alt="website logo"
         />
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-login-img.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwPd7h8FYUdnfGMp56OjiZUXS66YkHta7fg&usqp=CAU"
           className="login-img"
           alt="website login"
         />
         <form className="form-container" onSubmit={this.submitForm}>
           <img
-            src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwPd7h8FYUdnfGMp56OjiZUXS66YkHta7fg&usqp=CAU"
             className="login-website-logo-desktop-img"
             alt="website logo"
           />
